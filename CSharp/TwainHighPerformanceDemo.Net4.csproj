@@ -76,7 +76,7 @@
     <PackageReference Include="Vintasoft.Imaging.Pdf" Version="12.0.10.1" />
     <PackageReference Include="Vintasoft.Imaging.UI" Version="15.0.10.1" />
     <PackageReference Include="Vintasoft.Shared" Version="4.6.1.1" />
-    <PackageReference Include="Vintasoft.WinTwain" Version="15.3.4.1" />
+    <PackageReference Include="Vintasoft.WinTwain" Version="15.3.5.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainForm.cs">
